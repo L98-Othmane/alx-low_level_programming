@@ -16,6 +16,7 @@ char *leet(char *s)
 	char n[] = "4307143071";
 	int i = 0;
 	int j;
+
 	while (*(s + i) != '\0')
 	{
 		for (j = 0; j <= 9; j++)
