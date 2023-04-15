@@ -1,1 +1,1 @@
-0x09-static_libraries tasks0x09-static_libraries tasks
+0x09-static_libraries tasks
