@@ -21,7 +21,8 @@ int sum_them_all(const unsigned int n, ...)
 	va_end(valist);
 
 	return (sum);
-}#include <stdarg.h>
+}
+#include <stdarg.h>
 #include "variadic_functions.h"
 
 /**
